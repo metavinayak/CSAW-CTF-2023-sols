@@ -1,0 +1,7 @@
+http://web.csaw.io:14180/identity/images?user=%22solidsnake@protonmail.com%22
+
+
+http://web.csaw.io:14180/images/b6116d5a-a415-4438-8f43-2b4cb648593e.png
+[has password for snake]
+
+http://web.csaw.io:14180/web/flag
